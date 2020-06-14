@@ -21,8 +21,20 @@ const token = "784a03feb07989d3339dfa41c7eb41777436cbfa";
 
 const repositories = [
   {
-    name: "NZW9314 脚本",
-    url: "https://github.com/nzw9314/QuantumultX/tree/master",
+    name: "NZW9314",
+    url: "https://github.com/nzw9314/Surger",
+  },
+  {
+    name: "Choler",
+    url: "https://github.com/Choler/Surge",
+  },
+  {
+    name: "Peng-YM",
+    url: "https://github.com/Peng-YM/QuanX",
+  },
+  {
+    name: "lhie1",
+    url: "https://github.com/lhie1/Rules/tree/master/Surge/Surge%203",
   },
   {
     name: "ClashX",
@@ -31,14 +43,6 @@ const repositories = [
   {
     name: "Chavy 脚本",
     url: "https://github.com/chavyleung/scripts",
-  },
-  {
-    name: "Qure 图标",
-    url: "https://github.com/Koolson/Qure",
-  },
-  {
-    name: "Orz-mini 图标",
-    url: "https://github.com/Orz-3/mini",
   },
   {
     name: "yichahucha -- 微博广告",
