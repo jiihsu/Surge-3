@@ -41,10 +41,6 @@ const repositories = [
     url: "https://github.com/Peng-YM/QuanX",
   },
   {
-    name: "lhie1",
-    url: "https://github.com/lhie1",
-  },
-  {
     name: "yichahucha -- 微博广告",
     file_names: ["wb_ad.js", "wb_launch.js"],
     url: "https://github.com/yichahucha/surge/tree/master",
