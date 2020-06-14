@@ -17,7 +17,7 @@
  * 📌 若文件存在某个目录里面，请填写【一级目录】。如 JD-DailyBonus/JD-DailyBonus.js， 那么填写前面的JD-DailyBonus。
  */
 
-const token = "2c279c358c030070af73c912e1dc65623a29c3df";
+const token = "86e38f2374bb0d07c5b35b08616cb0a55873802d";
 
 const repositories = [
   {
