@@ -42,7 +42,7 @@ const repositories = [
   },
   {
     name: "lhie1",
-    url: "https://github.com/lhie1/Rules/tree/master/Surge/Surge%203",
+    url: "https://github.com/lhie1",
   },
   {
     name: "yichahucha -- 微博广告",
