@@ -22,7 +22,7 @@ const token = "784a03feb07989d3339dfa41c7eb41777436cbfa";
 const repositories = [
   {
     name: "NZW9314",
-    url: "https://github.com/nzw9314/Surger",
+    url: "https://github.com/nzw9314/Surge",
   },
   {
     name: "Choler",
