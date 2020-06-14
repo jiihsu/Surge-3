@@ -3,7 +3,7 @@
  * 1、监控github仓库的commits和release。
  * 2、监控具体的文件或目录是否有更新。
  * @author: Peng-YM， toulanboy
- * 更新地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js
+ * 更新地址：https://raw.githubusercontent.com/huangcn77/Surge/master/Script/github.js
  * 配置方法：
  * 1. 填写github token, 在github > settings > developer settings > personal access token 里面生成一个新token。
  * 默认TOKEN用的是我自己的，请不要请求过于频繁，每天一两次即可。例如：cron "0 9 * * *"* 2. 配置仓库地址，格式如下：
@@ -17,7 +17,7 @@
  * 📌 若文件存在某个目录里面，请填写【一级目录】。如 JD-DailyBonus/JD-DailyBonus.js， 那么填写前面的JD-DailyBonus。
  */
 
-const token = "784a03feb07989d3339dfa41c7eb41777436cbfa";
+const token = "2c279c358c030070af73c912e1dc65623a29c3df";
 
 const repositories = [
   {
