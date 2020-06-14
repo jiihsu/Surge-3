@@ -29,7 +29,7 @@ const repositories = [
     url: "https://github.com/yichengchen/clashX/releases",
   },
   {
-    name: "Chavy 脚本",
+    name: "Chavy",
     url: "https://github.com/chavyleung/scripts",
       },
   {
@@ -41,12 +41,8 @@ const repositories = [
     url: "https://github.com/Peng-YM/QuanX",
   },
   {
-    name: "Qure 图标",
-    url: "https://github.com/Koolson/Qure",
-  },
-  {
-    name: "Orz-mini 图标",
-    url: "https://github.com/Orz-3/mini",
+    name: "lhie1",
+    url: "https://github.com/lhie1/Rules/tree/master/Surge/Surge%203",
   },
   {
     name: "yichahucha -- 微博广告",
