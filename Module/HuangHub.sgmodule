@@ -1,6 +1,5 @@
 #!name=GitHub
-#!desc=github库脚本修改配置
-
+#!desc=github库修改脚本配置，自用
 #!system=ios
 
 [Script]
