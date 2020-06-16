@@ -34,7 +34,7 @@ const repositories = [
   },
   {
     name: "Peng-YM",
-    url: "https://github.com/Peng-YM/QuanX/blob/master",
+    url: "https://github.com/Peng-YM/QuanX/tree/master",
   },
   {
     name: "ClashX",
