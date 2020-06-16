@@ -1,3 +1,7 @@
+#!name=Dler reject
+#!desc=墙洞的本地复写
+#!system=ios
+
 [URL Rewrite]
 # > Redirect Google Service
 ^https?:\/\/(www.)?g\.cn https:\/\/www.google.com 302
@@ -69,9 +73,6 @@
 # ^https:\/\/zh.(m.)?wikipedia.org\/zh(-\w*)?(?=\/) https:\/\/www.wikiwand.com\/zh$2 302
 # ^https:\/\/(\w*).(m.)?wikipedia.org\/wiki https:\/\/www.wikiwand.com\/$1 302
 
-
-
-# Advertising Block
 # > NOMO
 ^https:\/\/nomo.dafork.com\/api\/v3\/iap\/ios_product_list https:\/\/files.catbox.moe\/fgmkpy.json 302
 
@@ -86,10 +87,6 @@
 ^https?:\/\/www.iqshw.com\/d\/js\/m http:\/\/burpsuite.applinzi.com\/Interface header
 ^https?:\/\/www.iqshw.com\/d\/js\/m http:\/\/rewrite.websocket.site:10\/Other\/Static\/JS\/Package.js? header
 
-# > TikTok Internation
-# (.*video_id=\w{32})(.*watermark=)(.*) url 302 $1
-# (?<=(carrier|sys)_region=)CN url 307 JP
-# (?<=version_code=)\d{1,}.\d{1}\.\d{1} url 307 8.0.0
 
 # > Anti_ISP_JavaScript_Injection
 ^https?:\/\/c.minisplat.cn - reject
