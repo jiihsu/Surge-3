@@ -13,9 +13,6 @@
 # 需要appid
  App价格版本监控 = type=cron,cronexp=0 0 * * * *,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Neurogram-R/AppMonitor.js,script-update-interval=0
 
-# > 英雄联盟排名 (By @syzzzf)
-英雄联盟排名 = type=cron,cronexp=0 0 8 * * *,script-path=https://raw.githubusercontent.com/songyangzz/QuantumultX/master/lol.js,script-update-interval=0
-
 # > TestFlight公测监控 (By @syzzzf)
 # 需要自己填appkey
 TestFlight公测监控 = script-path=https://raw.githubusercontent.com/songyangzz/QuantumultX/master/testflight.js,type=cron,cronexp=0 0 * * * *
@@ -41,9 +38,6 @@ TestFlight公测监控 = script-path=https://raw.githubusercontent.com/songyangz
 # 12306余票及列车时刻表查询(By @Macsuny)
 # 可更改出发地、目的地、出发时间及列车车次
 12306 = type=cron,cronexp=0 0 8 * * *,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/trainquery.js
-
-# > 实时货币换算
-实时汇率 = type=cron,cronexp=35 5 0 * * *,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/exchangeRate.js,script-update-interval=0
 
 # Steam价格监控(By Peng-YM)
 Steam价格监控= type=cron,cronexp=8 0 * * *,script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/steam.js
@@ -104,8 +98,6 @@ QQ音乐 = type=cron,cronexp=55 1 0 * * *,script-path=https://raw.githubusercont
 
 # > 切换会话
 #切换会话 = type=cron,cronexp="0 12 * * *",script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js,wake-system=true
-
-#  其他
 
 # > 饿了么   (By @syzzzf)
 # 打开 APP, 访问下`我的`>`签到领红包`(左上角)
