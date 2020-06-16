@@ -1,5 +1,5 @@
 /**
- * 2020年06月16日
+ * 2020年06月13日
  * 1、监控github仓库的commits和release。
  * 2、监控具体的文件或目录是否有更新。
  * @author: Peng-YM， toulanboy
@@ -22,7 +22,19 @@ const token = "805ee74c413a51c21b812dde1a5f77610341b510e";
 const repositories = [
   {
     name: "NZW9314 脚本",
-    url: "https://github.com/nzw9314/Surge",
+    url: "https://github.com/nzw9314/QuantumultX/tree/master",
+  },
+  {
+    name: "NZW9314 Surge",
+    url: "https://github.com/nzw9314/Surge/tree/master",
+  },
+  {
+    name: "Choler Surge",
+    url: "https://github.com/Choler/Surge/tree/master",
+  },
+  {
+    name: "Peng-YM",
+    url: "https://github.com/Peng-YM/QuanX/blob/master",
   },
   {
     name: "ClashX",
