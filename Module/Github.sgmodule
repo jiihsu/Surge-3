@@ -5,7 +5,7 @@
 [Script]
 
 # GitHub监控(By Peng-YM)
-GitHub监控= type=cron,cronexp=8 0 * * *,script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js
+GitHub监控= type=cron,cronexp=8 0 * * *,script-path=https://raw.githubusercontent.com/huangcn77/Surge/master/Script/github.js
 
 # 纵横小说 (By Peng-YM)
 # 使用方法：进入纵横小说页面，例如<<剑来>>：http://book.zongheng.com/book/672340.html 则id为672340，将id添加到列表即可。 
