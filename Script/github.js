@@ -22,7 +22,11 @@ const token = "784a03feb07989d3339dfa41c7eb41777436cbfa";
 const repositories = [
   {
     name: "NZW9314 脚本",
-    url: "https://github.com/nzw9314/QuantumultX/tree/master",
+    url: "https://github.com/nzw9314/Surge/tree/master",
+  },
+  {
+    name: "Choler",
+    url: " https://github.com/Choler/Surge/tree/master",
   },
   {
     name: "ClashX",
